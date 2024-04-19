@@ -1,9 +1,9 @@
 {
-  "name": "pingenerator",
+  "name": "pin-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Aksh-Konda.github.io/PinGenerator",
+  "homepage": "http://Aksh-Konda.github.io/pin-generator",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
