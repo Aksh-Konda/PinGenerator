@@ -63,7 +63,7 @@ function AllCodesDisplay({ codes }) {
 
   return (
     <div className="text-center bg-white grow h-full w-full rounded-lg flex flex-col px-2 pb-2 overflow-y-auto">
-      <h1 className="mt-3 mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
+      <h1 className="mt-3 mb-4 text-3xl font-extrabold text-gray-900 lg:text-6xl">
         All Codes
       </h1>
 
