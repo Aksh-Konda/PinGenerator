@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Aksh-Konda.github.io/pin-generator",
+  "homepage": "http://aksh-konda.github.io/pin-generator",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
